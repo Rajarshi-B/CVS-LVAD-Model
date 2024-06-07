@@ -6,3 +6,5 @@ Cardiovascular-System + Baroreflex-Model + Pulsatile-Left-Ventricular-Assist-Dev
 This model is an intermediate version.
 
 Relevant acknowledgements for the derivations that lead to this work are provided in the paper itself, also will be provided here in the future.
+
+Link to the paper: https://doi.org/10.1007/978-981-99-2680-0_29
